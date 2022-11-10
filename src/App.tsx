@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-    test
+    <div className='font-bold text-3xl text-red-500'>
+      Pizza stack
     </div>
   );
 }
